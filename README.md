@@ -1,4 +1,7 @@
-# Python on Replit
+# Aqui vamos a describir nuestro proyecto
++que es
++tablas
++relaciones
 
 This is a template to get you started with Python on Replit. It's ready to go so you can just hit run and start coding!
 
